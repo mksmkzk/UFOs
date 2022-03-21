@@ -17,8 +17,8 @@ We were asked to help Dana design a website that will help with filtering throug
 
 ### Images
 
-!(Search)[images/Search1.png]
-!(Search)[images/Search2.png]
+![Search](images/Search1.png)
+![Search](images/Search2.png)
 
 ## Summary
 
